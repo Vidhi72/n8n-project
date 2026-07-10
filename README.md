@@ -92,6 +92,6 @@ Body
 
 **Vidhi Kore**
 
-Second Year B.Tech (CSE - Data Science & Emerging Technology)
+Third Year B.Tech (CSE - Data Science & Emerging Technology)
 
 S.B. Jain Institute of Technology, Management & Research, Nagpur
